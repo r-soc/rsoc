@@ -5,3 +5,6 @@
 Written on Ruby on Rails
 Depends: ruby, rails 4, mysql-server
 
+
+
+Author - r-soc dev
